@@ -9,7 +9,7 @@ namespace TicTacToe
 {
     class Lines
     {
-        public Point Begin { get; set; }//
+        public Point Begin { get; set; }
         public Point End { get; set; }
         public Lines()
         {
